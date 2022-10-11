@@ -1,2 +1,2 @@
-# shell, init file, variables and expansion
+#!/bin/bash
 readme
